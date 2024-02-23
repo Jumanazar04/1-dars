@@ -1,3 +1,5 @@
+// Task-1
+
 // Xarajatlar dollarda $
 let borishKleishBileti$ = 500;
 let mehmonxonaTolovi$ = 250; 
@@ -27,3 +29,33 @@ if (jamiXarajat <= malumot) {
 }else{
     alert("Ozgina sabr qilishingiz kerak")
 }
+
+
+
+
+// Task-2
+
+let x = 10;
+x++;
+console.log(x);
+
+x--;
+console.log(x);
+
+++x;
+console.log(x);
+
+--x;
+console.log(x);
+
+y = x++;
+console.log(y);
+
+z = x--;
+console.log(z);
+
+u = ++x;
+console.log(u);
+
+v = --x;
+console.log(v);
